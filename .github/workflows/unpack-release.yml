@@ -1,0 +1,57 @@
+
+name: Install AEC Arts shop release
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "AEC-Arts-Shop-Backend-v2.zip"
+      - ".github/workflows/unpack-release.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: aec-arts-shop-release
+  cancel-in-progress: false
+
+jobs:
+  unpack-release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out shop repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Validate and unpack release
+        shell: bash
+        run: |
+          set -euo pipefail
+
+          archive="AEC-Arts-Shop-Backend-v2.zip"
+          test -f "$archive"
+          unzip -t "$archive"
+
+          mkdir -p .release-unpack
+          unzip -q "$archive" -d .release-unpack
+
+          source_dir=".release-unpack/AEC-Arts-Shop-Backend-v2"
+
+          test -f "$source_dir/package.json"
+          test -f "$source_dir/src/index.js"
+          test -f "$source_dir/wrangler.toml"
+          test -d "$source_dir/migrations"
+          test -d "$source_dir/public"
+
+          cp -a "$source_dir"/. .
+          rm -rf .release-unpack "$archive"
+
+      - name: Commit extracted shop files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Install AEC Arts shop backend release v2"
+          file_pattern: |
+            *
+            .github/**
