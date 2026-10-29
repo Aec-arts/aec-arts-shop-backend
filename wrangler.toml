@@ -1,0 +1,22 @@
+name = "aec-arts-shop"
+main = "src/index.js"
+compatibility_date = "2026-10-29"
+
+[assets]
+directory = "./public"
+binding = "ASSETS"
+run_worker_first = ["/api/*"]
+
+[[d1_databases]]
+binding = "DB"
+database_name = "aec-arts-shop-orders"
+database_id = "REPLACE_WITH_AEC_ONLY_D1_DATABASE_ID"
+migrations_dir = "migrations"
+
+[vars]
+# Live checkout stays disabled until the owner explicitly confirms delivery policy.
+DELIVERY_AMOUNT_PENCE = "0"
+DELIVERY_CONFIGURED = "no"
+PAYMENT_MODE = "test"
+OWNER_EMAIL = "doctor-orgone@hotmail.com"
+EMAIL_MODE = "queue_only"

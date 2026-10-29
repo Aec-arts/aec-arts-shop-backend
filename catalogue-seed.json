@@ -1,0 +1,220 @@
+{
+  "products": [
+    {
+      "id": "aec001",
+      "name": "Celestial Koi Garden Canvas Painting",
+      "category": "Art & Prints",
+      "description": "Celestial Koi Garden original canvas painting\n\n\n40x40 cm\n\n\nMixed medium",
+      "price": "150",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/Screenshot_20260721_122146_Gallery_1.jpg?v=1784968073",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec002",
+      "name": "Hand painted tote bag, Lady-Sunglasses",
+      "category": "Bags & Accessories",
+      "description": "Hand painted tote, lady with sunglasses design",
+      "price": "45",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/20260523_115750.jpg?v=1784966601",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec003",
+      "name": "Hand painted tote bag, Lady- Afro",
+      "category": "Bags & Accessories",
+      "description": "Hand painted tote bag, lady with afro design",
+      "price": "45",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/20260523_195713.jpg?v=1784966531",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec004",
+      "name": "Hand painted tote bag, Sugar Skull",
+      "category": "Bags & Accessories",
+      "description": "Hand painted tote bag, Sugar Skull design",
+      "price": "45",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/20260512_132532.jpg?v=1784966441",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec005",
+      "name": "Hand painted cap, Africa map",
+      "category": "Headwear",
+      "description": "Hand painted cap, Africa map design",
+      "price": "25",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/20260724_173812.jpg?v=1784965868",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec006",
+      "name": "Dr Orgone's Amazing Healing Energy Pad- Midi",
+      "category": "Healing Energy",
+      "description": "Dr Orgone's amazing healing energy pad- medium size",
+      "price": "45",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/IMG-20260724-WA0001_1_ff04e8b2-8d74-4a04-8a22-a6271dc935b8.jpg?v=1784909765",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec007",
+      "name": "Hand painted cap, Centipede",
+      "category": "Headwear",
+      "description": "Hand painted cap, Centipede design",
+      "price": "25",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/20260724_132806.jpg?v=1784900594",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec008",
+      "name": "Hand painted cap, Bird",
+      "category": "Headwear",
+      "description": "Hand painted cap, Bird design",
+      "price": "25",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/Screenshot_20260728_113541_Gallery.jpg?v=1785236558",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec009",
+      "name": "Hand painted cap, The Great Wave",
+      "category": "Headwear",
+      "description": "Hand painted cap, The Great Wave design",
+      "price": "25",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/20260724_115204.jpg?v=1784890900",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec010",
+      "name": "Hand painted cap, Royal Roots",
+      "category": "Headwear",
+      "description": "Hand painted cap, Royal Roots design",
+      "price": "25",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/20260724_115118.jpg?v=1784890809",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec011",
+      "name": "Three Wise Children Canvas painting",
+      "category": "Art & Prints",
+      "description": "Original art work on canvas. Three wise children design.\n\n\nSize 30x40cm\n\n\nAcrylics on canvas.",
+      "price": "120",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/IMG_2025_09_11_1229345540_wm.jpg?v=1784190871",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec012",
+      "name": "Hand painted cap, Saturn",
+      "category": "Headwear",
+      "description": "Hand painted cap, Space inspired, Saturn",
+      "price": "25",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/IMG-20260516-WA0002.jpg?v=1784147573",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec013",
+      "name": "Hand painted Frida bag",
+      "category": "Bags & Accessories",
+      "description": "Hand painted bag, Frida Khalo design",
+      "price": "60",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/Screenshot_20250506_111127_Photoroom.jpg?v=1784147083",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec014",
+      "name": "Hand painted Toucan crossbody bag",
+      "category": "Bags & Accessories",
+      "description": "Hand painted crossbody bag, Toucan design",
+      "price": "55",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/Screenshot_20250506_112846_Photoroom.jpg?v=1784146907",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec015",
+      "name": "Hand painted Africa map rucksack",
+      "category": "Bags & Accessories",
+      "description": "Hand painted rucksack, Africa map design",
+      "price": "60",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/Screenshot_20250422_184045_Photoroom.jpg?v=1784146615",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec016",
+      "name": "Hand painted Elephant Crossbody bag",
+      "category": "Bags & Accessories",
+      "description": "Hand painted crossbody bag, Elephant design",
+      "price": "55",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/Screenshot_20250422_180427_Photoroom.jpg?v=1784146242",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec017",
+      "name": "Hand painted tote bag, Africa",
+      "category": "Bags & Accessories",
+      "description": "Hand painted tote bag, Africa map design",
+      "price": "45",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/20260513_111727.jpg?v=1784043907",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec018",
+      "name": "Hand painted tote bag, Parrot",
+      "category": "Bags & Accessories",
+      "description": "Hand painted tote bag, Parrot design",
+      "price": "45",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/20260512_104006.jpg?v=1784043576",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec019",
+      "name": "Hand painted tote bag, Cupid",
+      "category": "Bags & Accessories",
+      "description": "Hand painted tote bag, Cupid design",
+      "price": "45",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/20260510_110225.jpg?v=1784042751",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec020",
+      "name": "Hand painted tote bag, Koi fish",
+      "category": "Bags & Accessories",
+      "description": "Hand painted tote bag, Koi fish design",
+      "price": "45",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/20260510_105309_b9210548-9ef4-443b-897d-33fd53a92c6b.jpg?v=1784043313",
+      "oneOff": false,
+      "visible": true
+    },
+    {
+      "id": "aec021",
+      "name": "Dr Orgone's Amazing Healing Energy Pad",
+      "category": "Healing Energy",
+      "description": "Booftee- large size healing pad",
+      "price": "70",
+      "image": "https://cdn.shopify.com/s/files/1/1072/7633/7484/files/IMG-20260421-WA0001.jpg?v=1783970341",
+      "oneOff": false,
+      "visible": true
+    }
+  ],
+  "categories": [
+    "Art & Prints",
+    "Bags & Accessories",
+    "Headwear",
+    "Healing Energy"
+  ]
+}
