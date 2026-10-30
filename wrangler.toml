@@ -1,3 +1,4 @@
+
 name = "aec-arts-shop"
 main = "src/index.js"
 compatibility_date = "2026-10-29"
@@ -10,7 +11,7 @@ run_worker_first = ["/api/*"]
 [[d1_databases]]
 binding = "DB"
 database_name = "aec-arts-shop-orders"
-database_id = "REPLACE_WITH_AEC_ONLY_D1_DATABASE_ID"
+database_id = "aa4f0bbe-6031-4a19-83e5-3b50a51b4548"
 migrations_dir = "migrations"
 
 [vars]
